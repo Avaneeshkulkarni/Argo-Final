@@ -1,0 +1,17 @@
+flask
+pandas
+requests
+openai
+flask-cors
+python-dotenv
+matplotlib
+seaborn
+numpy
+Pillow
+folium
+geopandas
+shapely
+argopy
+netCDF4
+xarray
+
